@@ -4,7 +4,7 @@ for(let i=0;i<arr.length;i++)
 {
   sum +=arr[i];
 }
-for(var i=1;i<=sum;i++)
+for(var i=0;i<=sum;i++)
 {
   if (i%3==0)
   {
